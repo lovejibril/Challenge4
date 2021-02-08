@@ -1,0 +1,66 @@
+body {
+    /* display: flex; */
+    /* justify-items: center; */
+    margin: 0 auto;
+    width: 500px;
+    height: 100%;
+    background-color: white;
+  }
+
+#Addbutton{
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+    font-size: 15px;
+    padding-left: 5px;
+    background-color: pink;
+}
+#Subbutton{
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+    font-size: 15px;
+    padding-left: 5px;
+    background-color: rgb(255, 192, 247);
+}
+#Multibutton{
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+    font-size: 15px;
+    padding-left: 5px;
+    margin-top: 20px;
+    background-color: rgb(232, 192, 255);
+
+}
+#Dividebutton{
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+    font-size: 15px;
+    padding-left: 5px;
+    background-color: rgb(192, 193, 255);
+
+}
+
+#number1{
+    width: 50%;
+    margin-top: 180px;
+    margin-left: 80px;
+}
+#number2{
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+
+#Answer{
+    width: 30%;
+    margin-top: 20px;
+    margin-left: 130px;
+}
